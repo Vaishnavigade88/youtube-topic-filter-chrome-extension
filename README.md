@@ -40,5 +40,4 @@ This Chrome Extension filters YouTube search results to display **only those vid
 
 ---
 
-## 📁 Folder Structure
 
