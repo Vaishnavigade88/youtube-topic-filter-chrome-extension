@@ -9,7 +9,7 @@ This Chrome Extension filters YouTube search results to display **only those vid
 - ✅ Filters videos based on your search query
 - ✅ Hides unrelated YouTube search results automatically
 - ✅ Uses dynamic DOM manipulation with MutationObserver
-- ✅ Lightweight and fast – no extra UI or permissions
+- ✅ Lightweight and fast,  no extra UI or permissions
 
 ---
 
